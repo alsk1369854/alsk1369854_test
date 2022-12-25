@@ -1,0 +1,1 @@
+export const testFun = () => 'alsk1369854_test'
